@@ -1,0 +1,15 @@
+{
+  "name": "adblitz",
+  "version": "1.0.0",
+  "description": "Bulk video ad generator - combine hooks, bodies, and CTAs into every possible combination",
+  "bin": {
+    "adblitz": "./bin/adblitz.js"
+  },
+  "keywords": ["video", "ads", "ffmpeg", "bulk", "meta-ads"],
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "cli-progress": "^3.12.0",
+    "chalk": "^4.1.2"
+  }
+}
