@@ -1,6 +1,6 @@
 {
   "name": "adblitz",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Bulk video ad generator - combine hooks, bodies, and CTAs into every possible combination",
   "bin": {
     "adblitz": "./bin/adblitz.js"
